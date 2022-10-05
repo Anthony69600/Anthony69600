@@ -21,7 +21,7 @@ I'm a PHP web developer, based in Lyon, FR
 
 #### I’m currently learning:<br> 
 
-<img src="https://blog.sensiolabs.com/wp-content/uploads/2021/11/Symfony-6-2-1024x331.png" alt="symfony6 logo" title="Symfony6" height="25" /> 
+<img src="https://blog.sensiolabs.com/wp-content/uploads/2021/11/Symfony-6-2-1024x331.png" alt="symfony6 logo" title="Symfony6" height="50" /> 
 <br>
 <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker logo" title="Docker" height="25" />
 
