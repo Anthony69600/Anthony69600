@@ -15,7 +15,7 @@ I'm a PHP web developer, based in Lyon, FR
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 <br>
 <br>
-<a href="https://www.codewars.com/users/Anthony69/" target="_blank">
+<a href="https://www.codewars.com/users/Anthony69600/" target="_blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars logo" title="Code Wars" height="25" />
 </a>
 
